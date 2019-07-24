@@ -2,11 +2,13 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import Image from './Image'
+import Moment from 'moment'
 import './PostCard.css'
 
 const PostCard = ({
   featuredImage,
   title,
+  date,
   excerpt,
   slug,
   categories = [],
@@ -22,7 +24,8 @@ const PostCard = ({
     <div className="PostCard--Content">
       {title && <h3 className="PostCard--Title">{title}</h3>}
       <div className="PostCard--Category">
-        {categories && categories.map(cat => cat.category).join(', ')}
+        <span>{Moment(date).format('DD MMMM, YYYY')}</span>
+        {/* {categories && categories.map(cat => cat.category).join(', ')} */}
       </div>
       {excerpt && <div className="PostCard--Excerpt">{excerpt}</div>}
     </div>

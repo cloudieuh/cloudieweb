@@ -2,15 +2,16 @@ import React from 'react'
 
 import PostCard from '../components/PostCard'
 import './PostSection.css'
+import { Link } from 'gatsby';
 
 class PostSection extends React.Component {
   static defaultProps = {
     posts: [],
     title: '',
-    limit: 12,
+    limit: 3,
     showLoadMore: true,
     loadMoreTitle: 'Load More',
-    perPageLimit: 12
+    perPageLimit: 3
   }
 
   state = {
@@ -42,8 +43,16 @@ class PostSection extends React.Component {
             <button className="button" onClick={this.increaseLimit}>
               {loadMoreTitle}
             </button>
+            <h4 style={{margin: '1em'}}>OR</h4>
           </div>
         )}
+          <div className="taCenter">
+            <Link to='/blog'>
+              <button style={{marginTop: '0em'}}>
+                See All News
+              </button>
+            </Link>
+          </div>
       </div>
     )
   }

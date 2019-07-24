@@ -9,7 +9,7 @@ import Layout from '../components/Layout.js'
 import Gallery from '../components/Gallery'
 
 // Export Template for use in CMS preview
-export const ComponentsPageTemplate = ({
+export const ProjectContentsPageTemplate = ({
   title,
   subtitle,
   featuredImage,
@@ -61,19 +61,19 @@ export const ComponentsPageTemplate = ({
   </main>
 )
 
-const ComponentsPage = ({ data: { page } }) => (
+const ProjectContentsPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <ComponentsPageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <ProjectContentsPageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
 
-export default ComponentsPage
+export default ProjectContentsPage
 
 export const pageQuery = graphql`
-  query ComponentsPage($id: String!) {
+  query ProjectContentsPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       ...Gallery

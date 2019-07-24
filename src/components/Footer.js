@@ -1,20 +1,20 @@
 import React from 'react'
-import InstagramFeed from './InstagramFeed'
+// import InstagramFeed from './InstagramFeed'
 import './Footer.css'
 
 export default () => (
   <div>
-    <h2 className="taCenter">
-      Follow us{' '}
-      <a href="https://instagram.com/thrivegoldcoast/">@thrivegoldcoast</a>
-    </h2>
+    <h4 className="taCenter">
+      For inquiries regarding this project. 
+      Please contact dorome [at_mark] is.naist.jp
+    </h4>
     <br />
-    <InstagramFeed count="8" />
+    {/* <InstagramFeed count="8" /> */}
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://thriveweb.com.au/">Thrive</a>.
+          © Copyright {new Date().getFullYear()} All rights reserved. {' '}
+          <a href='/'>Dorome Project</a>.
         </span>
       </div>
     </footer>
