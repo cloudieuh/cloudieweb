@@ -2,8 +2,7 @@
 template: HomePage
 slug: ''
 title: CrabWatch
-featuredImage: >-
-  https://ucarecdn.com/c63585ac-8565-414f-aad9-b98c531bf841/-/preview/-/enhance/1/-/grayscale/
+featuredImage: 'https://ucarecdn.com/b8cbcd8c-a90d-41f8-8349-81d02559f3aa/'
 subtitle: >-
   **IoT and Artificial Intelligence-enabled Precision Crab Farming System for
   Increasing Crab Yields.**
