@@ -1,31 +1,34 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: CrabWatch
 featuredImage: >-
   https://ucarecdn.com/c63585ac-8565-414f-aad9-b98c531bf841/-/preview/-/enhance/1/-/grayscale/
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: >-
+  **IoT and Artificial Intelligence-enabled Precision Crab Farming System for
+  Increasing Crab Yields.**
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: IoT Crab Website Project
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+We developed an IoT-based water quality monitoring system for blue swimmer and mud crab farming. Our proposed system consists of small embedded devices (Raspberry and Arduino), multiple water quality sensors and LoRa wireless interfaces.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+The system uses a lightweight Message Queuing Telemetry Transport (MQTT) protocol for exchanging messages between small embedded devices, mobile devices, and sensors. We use water temperature sensor, pH sensor, and salinity sensor for monitoring the water quality in the pond. Sensors are connected to small embedded devices and a Mosquito based MQTT broker is established for remote monitoring. Moreover, we also established a cloud-based database for storing data from sensors to produce datasets.
 
-# Features
+# Members
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+* Dr. Muhammad Niswar (Dept. of Informatics, Faculty of Engineering, UNHAS)
+* Dr. Zahir Zainuddin (Dept. of Informatics, Faculty of Engineering, UNHAS)
+* Prof. Yushinta Fujaya (Faculty of Marine Science & Fisheries, UNHAS)
+* Dr. Nita (Faculty of Marine Science & Fisheries, UNHAS)
+* Dr. Amil A Ilham (Dept. of Informatics, Faculty of Engineering, UNHAS)
+* Dr. Shigeru Kashihara (Graduate School of Information Science, NAIST)
+* Ady Wahyudi Paundu (Dept. of Informatics, Faculty of Engineering, UNHAS)
+* Dr. Doudou Fall (Graduate School of Information Science , NAIST)
+* Zainab Muslimin (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
+* Ismail (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
+* Sonny Wainolang (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
+* Novi (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
+* Runal (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
+* Muhammad Rizky Eka Arlin (Dept. of Informatics, Faculty of Engineering, UNHAS)
+* Arif Wicaksono (Dept. of Informatics, Faculty of Engineering, UNHAS)
