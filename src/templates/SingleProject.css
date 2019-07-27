@@ -1,0 +1,27 @@
+.react-tabs__tab-list {
+    margin: 0 auto;
+    padding: 1rem 1rem 0 1rem;
+    list-style: none;
+    display: table;
+    border: none;
+}
+
+.react-tabs__tab--selected {
+    border-bottom: 2px solid #00c2be!important;
+    color: #444!important;
+}
+
+.react-tabs__tab {
+    padding: 10px;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: #aaa;
+    border-bottom: 2px solid #eee;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}
+
+

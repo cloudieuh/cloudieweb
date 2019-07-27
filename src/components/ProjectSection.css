@@ -1,0 +1,66 @@
+.ProjectSection {
+}
+
+.ProjectSection--Grid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.ProjectSection button {
+  margin-top: 1rem;
+  margin-top: 5rem;
+  background: white;
+  border: 2px solid black;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+
+.ProjectSection button:hover {
+  background: black;
+  border: 2px solid white;
+  color: white;
+}
+
+.ProjectSection--Grid > * {
+  width: calc(33.33% - 2rem);
+  margin-bottom: 4rem;
+}
+
+@supports (display: grid) {
+  .ProjectSection--Grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 4rem;
+  }
+
+  .ProjectSection--Grid > * {
+    width: auto;
+    margin: 0;
+  }
+}
+
+.ProjectSection--Title {
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto 4rem auto;
+  line-height: 1.2;
+}
+
+@media screen and (max-width: 888px) {
+  .ProjectSection--Grid > * {
+    width: 100%;
+    max-width: 50rem;
+    margin: 0 auto 4rem;
+    display: block;
+  }
+
+  @supports (display: grid) {
+    .ProjectSection--Grid {
+      display: block;
+      grid-template-columns: 1;
+      grid-gap: 0;
+    }
+  }
+}
