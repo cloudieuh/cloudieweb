@@ -1,7 +1,8 @@
 # See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
 backend:
-  name: git-gateway
+  name: github
   branch: master # Branch to update (optional; defaults to master)
+  repo: https://github.com/iotcrab/project-iot-crab.git
 
 # display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
 media_library:
