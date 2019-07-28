@@ -17,48 +17,11 @@ media_library:
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
-    folder: content/pages
     label: 'Page'
     delete: false # Prevent users from deleting documents in this collection
     # create: true
     editor:
       preview: true
-    # fields:
-    #   - {
-    #       label: Template,
-    #       name: template,
-    #       widget: hidden,
-    #       default: DefaultPage,
-    #     }
-    #   - { label: Title, name: title, widget: string, required: true }
-    #   - { label: Slug, name: slug, widget: string, required: true }
-    #   - { label: Featured Image, name: featuredImage, widget: image }
-    #   - { label: Subtitle, name: subtitle, widget: markdown, required: false }
-    #   - { label: Body, name: body, widget: markdown }
-    #   - label: 'Meta'
-    #     required: false
-    #     name: 'meta'
-    #     widget: 'object'
-    #     fields:
-    #       - { label: Title, name: title, widget: string, required: false }
-    #       - {
-    #           label: Description,
-    #           name: description,
-    #           widget: text,
-    #           required: false,
-    #          }
-    #       - {
-    #           label: Canonical Link,
-    #           name: canonicalLink,
-    #           widget: string,
-    #           required: false,
-    #         }
-    #       - {
-    #           label: Noindex,
-    #           name: noindex,
-    #           widget: boolean,
-    #           required: false,
-    #         }
     files:
       - file: 'content/pages/blog.md'
         label: 'News Page'
