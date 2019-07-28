@@ -8,7 +8,7 @@ subtitle: >-
   Increasing Crab Yields.**
 meta:
   description: This is a meta description.
-  title: IoT Crab Website Project
+  title: Home
 ---
 We developed an IoT-based water quality monitoring system for blue swimmer and mud crab farming. Our proposed system consists of small embedded devices (Raspberry and Arduino), multiple water quality sensors and LoRa wireless interfaces.
 
