@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: CrabWatch
+title: Home
 featuredImage: 'https://ucarecdn.com/b8cbcd8c-a90d-41f8-8349-81d02559f3aa/'
 subtitle: >-
   **IoT and Artificial Intelligence-enabled Precision Crab Farming System for

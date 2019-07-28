@@ -1,10 +1,26 @@
-import React, { Component } from 'react'
+import React, { Component, } from 'react'
 import { Location } from '@reach/router'
 import { Link } from 'gatsby'
 import { Menu, X } from 'react-feather'
 import Logo from './Logo'
 
 import './Nav.css'
+
+// export const query = graphql`
+//   fragment Navigation on allMarkdownRemark(
+//     filter: {fields: {contentType: {eq: "pages"}}}
+//   ) {
+//     nodes {
+//       fields {
+//         slug {
+//       }
+//       frontmatter {
+//         title
+//       }
+//       }
+//     }
+//   }
+// `
 
 export class Navigation extends Component {
   state = {
