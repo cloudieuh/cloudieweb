@@ -38,6 +38,7 @@
     "moment": "^2.24.0",
     "netlify-cms": "^2.3.3",
     "netlify-cms-app": "^2.9.6",
+    "netlify-cms-media-library-uploadcare": "^0.5.3",
     "node-sass": "^4.11.0",
     "postcss-preset-env": "^6.5.0",
     "prop-types": "^15.6.2",
