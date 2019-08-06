@@ -2,10 +2,8 @@
 template: HomePage
 slug: ''
 title: Home
-featuredImage: 'https://ucarecdn.com/b8cbcd8c-a90d-41f8-8349-81d02559f3aa/'
-subtitle: >-
-  **IoT and Artificial Intelligence-enabled Precision Crab Farming System for
-  Increasing Crab Yields.**
+featuredImage: 'https://ucarecdn.com/28e236f0-2247-4ea3-a9c9-c2a24a56a2e8/'
+subtitle: '**Cloudie Lab**'
 meta:
   description: This is a meta description.
   title: Home
