@@ -35,11 +35,12 @@ section1: >-
 
   * Dr. Amil A Ilham (Dept. of Informatics, Faculty of Engineering, UNHAS)
 
-  * Dr. Shigeru Kashihara (Graduate School of Information Science, NAIST)
+  * Dr. Shigeru Kashihara (Graduate School of Information Science, NAIST, Japan)
 
-  * Ady Wahyudi Paundu (Dept. of Informatics, Faculty of Engineering, UNHAS)
+  * Ady Wahyudi Paundu (Dept. of Informatics, Faculty of Engineering, UNHAS,
+  Japan)
 
-  * Dr. Doudou Fall (Graduate School of Information Science , NAIST)
+  * Dr. Doudou Fall (Graduate School of Information Science , NAIST, Japan)
 
   * Zainab Muslimin (Dept. of Electrical Engineering, Faculty of Engineering,
   UNHAS)
