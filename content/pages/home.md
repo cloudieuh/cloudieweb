@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Home
 featuredImage: 'https://ucarecdn.com/28e236f0-2247-4ea3-a9c9-c2a24a56a2e8/'
-subtitle: '**Cloudie Lab**'
+subtitle: '**Cloudie Laboratorium**'
 meta:
   description: This is a meta description.
   title: Home
