@@ -1,9 +1,7 @@
 ---
 template: SingleProject
 title: CrabWatch
-subtitle: >-
-  IoT and Artificial Intelligence-enabled Precision Crab Farming System for
-  Increasing Crab Yields.
+subtitle: IoT crabwatch
 status: Published
 featuredImage: 'https://ucarecdn.com/b8cbcd8c-a90d-41f8-8349-81d02559f3aa/'
 section1: >-
