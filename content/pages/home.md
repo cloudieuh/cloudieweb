@@ -8,24 +8,18 @@ meta:
   description: This is a meta description.
   title: Home
 ---
-We developed an IoT-based water quality monitoring system for blue swimmer and mud crab farming. Our proposed system consists of small embedded devices (Raspberry and Arduino), multiple water quality sensors and LoRa wireless interfaces.
+CLOUDIE Lab conducts education and research on cloud platform and Internet related issues. We focus on development and utilization of cloud platform and internet application for science, engineering, education, healthcare and life science. We aim to develop a new technique that enable application run on platform efficiently and effectively. Our main research themes are as follow:
 
-The system uses a lightweight Message Queuing Telemetry Transport (MQTT) protocol for exchanging messages between small embedded devices, mobile devices, and sensors. We use water temperature sensor, pH sensor, and salinity sensor for monitoring the water quality in the pond. Sensors are connected to small embedded devices and a Mosquito based MQTT broker is established for remote monitoring. Moreover, we also established a cloud-based database for storing data from sensors to produce datasets.
 
-# Members
 
-* Dr. Muhammad Niswar (Dept. of Informatics, Faculty of Engineering, UNHAS)
-* Dr. Zahir Zainuddin (Dept. of Informatics, Faculty of Engineering, UNHAS)
-* Prof. Yushinta Fujaya (Faculty of Marine Science & Fisheries, UNHAS)
-* Dr. Nita (Faculty of Marine Science & Fisheries, UNHAS)
-* Dr. Amil A Ilham (Dept. of Informatics, Faculty of Engineering, UNHAS)
-* Dr. Shigeru Kashihara (Graduate School of Information Science, NAIST)
-* Ady Wahyudi Paundu (Dept. of Informatics, Faculty of Engineering, UNHAS)
-* Dr. Doudou Fall (Graduate School of Information Science , NAIST)
-* Zainab Muslimin (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
-* Ismail (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
-* Sonny Wainolang (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
-* Novi (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
-* Runal (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
-* Muhammad Rizky Eka Arlin (Dept. of Informatics, Faculty of Engineering, UNHAS)
-* Arif Wicaksono (Dept. of Informatics, Faculty of Engineering, UNHAS)
+1.	Cloud Computing
+
+2.	Software Defined Network (SDN)
+
+3.	Delay Tolerant Network (DTN)
+
+4.	Internet of Everything (IoE)
+
+5.	Internet for Developing (I4D)
+
+6.	Internet Security
