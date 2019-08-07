@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: CLOUDIE Lab
+title: UbiComNet Lab
 featuredImage: 'https://ucarecdn.com/28e236f0-2247-4ea3-a9c9-c2a24a56a2e8/'
-subtitle: '**Cloud Computing & Internet Engineering Lab.**'
+subtitle: '**Ubiquitous Computing & Networking Lab.**'
 meta:
   description: This is a meta description.
   title: Home
