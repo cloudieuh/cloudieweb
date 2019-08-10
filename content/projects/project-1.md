@@ -108,6 +108,9 @@ gallery2:
   - alt: yellow ice cream
     image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
     title: Yellow Ice Cream
+  - alt: JICA visit
+    image: 'https://ucarecdn.com/abd13762-fc5a-4785-b8d3-145d3ff01a9e/'
+    title: 'JICA staffs visit the hatchery '
 meta:
   canonicalLink: ''
   description: test meta description
