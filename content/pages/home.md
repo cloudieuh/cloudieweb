@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: UbiCON Lab
-featuredImage: 'https://ucarecdn.com/28e236f0-2247-4ea3-a9c9-c2a24a56a2e8/'
+featuredImage: 'https://ucarecdn.com/b2bb6683-1eb4-4b63-a7be-63daf2927b3a/'
 subtitle: '**Ubiquitous Computing & Networking Lab.**'
 meta:
   description: This is a meta description.
