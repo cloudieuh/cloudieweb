@@ -1,23 +1,32 @@
 ---
 template: SingleProject
 title: CrabWatch
-subtitle: IoT crabwatch
+subtitle: IoT and Artificial Intelligent-enabled Precision Crab Farming System
 status: Published
 featuredImage: 'https://ucarecdn.com/b8cbcd8c-a90d-41f8-8349-81d02559f3aa/'
 section1: >-
-  We developed an IoT-based water quality monitoring system for blue swimmer and
-  mud crab farming. Our proposed system consists of small embedded devices
-  (Raspberry and Arduino), multiple water quality sensors and LoRa wireless
-  interfaces.
+  Farming of blue swimmer for producing soft shell crab has been practiced in
+  south-east Asian countries such as Indonesia, Thailand, Myanmar, Vietnam, and
+  Philippines. Soft shell crabs are harvested when they have just molted to
+  prevent their shells from being hardened. unfortunately, they are experiencing
+  a low survival rate of adult crab in floating cage in the pond. Unfortunately,
+  farmers are experiencing a low survival rate of larval development stage and
+  adult crab. The factor contribute in low survival rate of the crab is a poor
+  water quality and incorrect feeding.
 
 
-  The system uses a lightweight Message Queuing Telemetry Transport (MQTT)
-  protocol for exchanging messages between small embedded devices, mobile
-  devices, and sensors. We use water temperature sensor, pH sensor, and salinity
-  sensor for monitoring the water quality in the pond. Sensors are connected to
-  small embedded devices and a Mosquito based MQTT broker is established for
-  remote monitoring. Moreover, we also established a cloud-based database for
-  storing data from sensors to produce datasets.
+  \
+
+  We developed an IoT-based water quality monitoring and control system for blue
+  swimmer and mud crab farming. Our proposed system consists of small embedded
+  devices (Raspberry and Arduino), multiple water quality sensors and LoRa
+  wireless interfaces. The system uses a lightweight Message Queuing Telemetry
+  Transport (MQTT) protocol for exchanging messages between small embedded
+  devices, mobile devices, and sensors. We use water temperature sensor, pH
+  sensor, and salinity sensor for monitoring the water quality in the pond.
+  Sensors are connected to small embedded devices and a Mosquito based MQTT
+  broker is established for remote monitoring. Moreover, we also established a
+  cloud-based database for storing data from sensors to produce datasets.
 
 
   ## Members
