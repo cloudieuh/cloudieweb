@@ -5,14 +5,13 @@ subtitle: IoT and Artificial Intelligent-enabled Precision Crab Farming System
 status: Published
 featuredImage: 'https://ucarecdn.com/b8cbcd8c-a90d-41f8-8349-81d02559f3aa/'
 section1: >-
-  Farming of blue swimmer for producing soft shell crab has been practiced in
-  south-east Asian countries such as Indonesia, Thailand, Myanmar, Vietnam, and
-  Philippines. Soft shell crabs are harvested when they have just molted to
-  prevent their shells from being hardened. unfortunately, they are experiencing
-  a low survival rate of adult crab in floating cage in the pond. Unfortunately,
-  farmers are experiencing a low survival rate of larval development stage and
-  adult crab. The factor contribute in low survival rate of the crab is a poor
-  water quality and incorrect feeding.
+  Farming of blue swimmer and mud crab for producing soft shell crab has been
+  practiced in south-east Asian countries such as Indonesia, Thailand, Myanmar,
+  Vietnam, and Philippines. Soft shell crabs are harvested when they have just
+  molted to prevent their shells from being hardened. Unfortunately, farmers are
+  experiencing a low survival rate of larval development stage and adult crab.
+  The factor contribute in low survival rate of the crab is a poor water quality
+  and incorrect feeding.
 
 
   \
@@ -77,9 +76,6 @@ section2: |-
   src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
 gallery1:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
   - alt: umbrellas
     image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
     title: a bunch of umbrellas
@@ -99,9 +95,6 @@ section3: |-
    src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
    allow="autoplay; encrypted-media" allowfullscreen></iframe>
 gallery2:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
   - alt: umbrellas
     image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
     title: a bunch of umbrellas
