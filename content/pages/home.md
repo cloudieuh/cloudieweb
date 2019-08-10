@@ -13,6 +13,7 @@ UbiCON Lab conducts education and research on ubiquitous and cloud computing pla
 
 
 * Cloud Computing
+* Edge Computing
 * Software Defined Network (SDN)
 * Embedded System
 * Development of Web and Mobile Apps
