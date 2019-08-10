@@ -95,12 +95,12 @@ section3: |-
    src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
    allow="autoplay; encrypted-media" allowfullscreen></iframe>
 gallery2:
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+  - alt: JICA visit-1
+    image: 'https://ucarecdn.com/78427fd4-3bd7-4231-919f-70335da5542f/'
+    title: JICA staffs visit Hatchery in Takalar
+  - alt: 'MoU discussion '
+    image: 'https://ucarecdn.com/5d2637e1-f0ec-41a5-9ca1-514e9ea355e4/'
+    title: 'MoU discussion '
   - alt: JICA visit
     image: 'https://ucarecdn.com/abd13762-fc5a-4785-b8d3-145d3ff01a9e/'
     title: 'JICA staffs visit the hatchery '
