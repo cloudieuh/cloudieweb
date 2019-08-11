@@ -64,17 +64,20 @@ section1: >-
   UNHAS)
 
   * Arif Wicaksono (Dept. of Informatics, Faculty of Engineering, UNHAS)
-section2: |-
-  ## You can use videos, images and text.
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+section2: >-
+  ## Publication
 
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+  1. Muhammad Niswar, Sonny Wainalang, Amil A. Ilham, Zahir Zainuddin, Yushinta
+  Fujaya, Zaenab Muslimin, Ady W Paundu, Shigeru Kashihara, Doudou Fall,
+  "IoT-based Water Quality Monitoring System for Soft-Shell Crab Farming," 2018
+  IEEE International Conference on Internet of Things and Intelligence System
+  (IoTaIS), Bali, 2018, pp. 6-9.
+
+  2. Muhammad Niswar, Zahir Zainuddin, Yushinta Fujaya, Zagita Marna Putra, " An
+  Automated Feeding System for Soft Shell Crab," Indonesian Journal of
+  Electrical Engineering and Computer Science, Vol. 5, No. 3, March 2017, pp.
+  564 ~ 568
 gallery1:
   - alt: umbrellas
     image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
@@ -83,9 +86,9 @@ gallery1:
     image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
     title: Yellow Ice Cream
 section3: |-
+  ## Activities
 
-  ## You can use videos, images and text.
-   [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
+   [Dictumst a ultrices mi](<>) a dignissim ad fermentum eget a nam et a blandit
    scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
    vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
    bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
