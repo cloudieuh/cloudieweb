@@ -14,8 +14,6 @@ section1: >-
   and incorrect feeding.
 
 
-  \
-
   We developed an IoT-based water quality monitoring and control system for blue
   swimmer and mud crab farming. Our proposed system consists of small embedded
   devices (Raspberry and Arduino), multiple water quality sensors and LoRa
