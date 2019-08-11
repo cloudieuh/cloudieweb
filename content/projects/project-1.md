@@ -78,21 +78,9 @@ section2: >-
   Automated Feeding System for Soft Shell Crab," Indonesian Journal of
   Electrical Engineering and Computer Science, Vol. 5, No. 3, March 2017, pp.
   564 ~ 568
-gallery1:
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+gallery1: []
 section3: |-
   ## Activities
-
-   [Dictumst a ultrices mi](<>) a dignissim ad fermentum eget a nam et a blandit
-   scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-   vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-   bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-   vestibulum.
 
    <iframe width="560" height="315"
    src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
