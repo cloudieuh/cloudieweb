@@ -76,7 +76,9 @@ section2: >-
   Automated Feeding System for Soft Shell Crab," Indonesian Journal of
   Electrical Engineering and Computer Science, Vol. 5, No. 3, March 2017, pp.
   564 ~ 568
-gallery1: []
+gallery1:
+  - alt: Larvae Detection
+    image: 'https://ucarecdn.com/9f988d60-7590-43ff-8724-940c44e9e31e/'
 section3: |-
   ## Activities
 
