@@ -46,7 +46,7 @@ section1: >-
 
   * Dr. Doudou Fall (Graduate School of Information Science , NAIST, Japan)
 
-  * Zainab Muslimin (Dept. of Electrical Engineering, Faculty of Engineering,
+  * Zaenab Muslimin (Dept. of Electrical Engineering, Faculty of Engineering,
   UNHAS)
 
   * Ismail (Dept. of Electrical Engineering, Faculty of Engineering, UNHAS)
@@ -61,7 +61,7 @@ section1: >-
   * Muhammad Rizky Eka Arlin (Dept. of Informatics, Faculty of Engineering,
   UNHAS)
 
-  * Arif Wicaksono (Dept. of Informatics, Faculty of Engineering, UNHAS)
+  * Muh. Arief Wicaksono (Dept. of Informatics, Faculty of Engineering, UNHAS)
 section2: >-
   ## Publication
 
