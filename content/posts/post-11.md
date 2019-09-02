@@ -1,19 +1,14 @@
 ---
 template: SinglePost
-title: Yellow Van
+title: Research Internship at NAIST
 status: Published
-date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/a7f36998-7a41-4a63-b0b1-91ef46cd638b/'
-excerpt: >-
-  This is placeholder text that our web designers put here to make sure words
-  appear properly on your website. This text is going to be replaced once the
-  website is completed. You are currently reading text that is written in
-  English, not any other language.
+date: 2019-08-31T16:00:00.000Z
+featuredImage: ''
+excerpt: test
+categories: []
 meta:
-  description: test meta description
-  title: test meta title
+  description: ''
+  noindex: false
+  title: ''
 ---
-
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
-
-Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+ Nara Institute of Science and Technology (NAIST) is a Japanese national university located in Kansai Science City, Japan. On march until June 2019, I got an opportunity to do a Reseach Internship on Cyber Resilience lab at NAIST.  I was supervised by Dr. Doudou Fall and Dr. Shigeru Kashihara to do a project for making new GUI for finding victims through drones video by a machine learning algorithm called YOLO. Because of this internship, I got a great experience including new friends from Japan, Tanzania, Thailand, Senegal, and France. I think it will be tough for me to talk with sensei because of the limitation of language, but fortunately, all the sensei's in the lab can speak English fluently. The other things that I learned from my Internship at NAIST were how to do improve my research every week, how to manage time well, and how I can focus on what I am doing. Big thanks to Dr. Muhammad Niswar for giving me this chance.
