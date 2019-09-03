@@ -17,16 +17,16 @@ export const query = graphql`
         image
         title
       }
-      # gallery1 {
-      #   alt
-      #   image
-      #   title
-      # }
-      # gallery2 {
-      #   alt
-      #   image
-      #   title
-      # }
+      gallery1 {
+        alt
+        image
+        title
+      }
+      gallery2 {
+        alt
+        image
+        title
+      }
     }
   }
 `
