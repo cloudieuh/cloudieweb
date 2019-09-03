@@ -20,7 +20,7 @@ export const query = graphql`
       gallery1 {
         alt
         image
-        title
+        # title
       }
       gallery2 {
         alt
