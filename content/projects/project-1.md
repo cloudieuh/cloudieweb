@@ -84,9 +84,10 @@ gallery1:
 section3: |-
   ## Activities
 
-   <iframe width="560" height="315"
-   src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-   allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
+  allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 gallery2:
   - alt: JICA visit-1
     image: 'https://ucarecdn.com/78427fd4-3bd7-4231-919f-70335da5542f/'
