@@ -5,8 +5,8 @@ import "react-tabs/style/react-tabs.css";
 import "./SingleProject.css"
 
 import PageHeader from '../components/PageHeader'
-import Content from '../components/Content'
-import Layout from '../components/Layout'
+import Content from '../components/Content.js'
+import Layout from '../components/Layout.js'
 import Gallery from '../components/Gallery'
 
 export const SingleProjectTemplate = ({
