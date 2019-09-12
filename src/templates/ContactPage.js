@@ -30,6 +30,7 @@ export const ContactPageTemplate = ({
         <div>
           <Content source={body} />
           <div className="Contact--Details">
+            <div>
             {address && (
               <a
                 className="Contact--Details--Item"
@@ -42,16 +43,21 @@ export const ContactPageTemplate = ({
                 <MapPin /> {address}
               </a>
             )}
+            </div>
+            <div>
             {phone && (
               <a className="Contact--Details--Item" href={`tel:${phone}`}>
                 <Smartphone /> {phone}
               </a>
             )}
+            </div>
+            <div>
             {email && (
               <a className="Contact--Details--Item" href={`mailto:${email}`}>
                 <Mail /> {email}
               </a>
             )}
+            </div>
           </div>
         </div>
 

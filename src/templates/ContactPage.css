@@ -3,11 +3,12 @@
 
 .Contact--Details {
   margin-top: 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .Contact--Details--Item {
-  display: grid;
-  grid-template-columns: 'auto auto auto';
+  display: block;
   padding: 2rem 0;
   border-top: 1px solid var(--lightGrey);
   font-weight: 500;
@@ -36,8 +37,7 @@
   .Contact--Section1--Container > * {
     width: calc(50% - 2rem);
   }
-
-  .Contact--Details--Item {
-    grid-template-columns: 'auto'
+  .Contact--Details {
+    grid-template-columns: 1fr;
   }
 }
