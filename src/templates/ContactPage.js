@@ -86,6 +86,7 @@ export const pageQuery = graphql`
   query ContactPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
+      ...Gallery
       html
       frontmatter {
         title
@@ -95,6 +96,7 @@ export const pageQuery = graphql`
         address
         phone
         email
+        section4
       }
     }
   }
