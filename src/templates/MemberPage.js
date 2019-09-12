@@ -8,14 +8,14 @@ import Gallery from '../components/Gallery'
 // import SVGIcon from '../components/SVGIcon'
 
 // Export Template for use in CMS preview
-export const DefaultPageTemplate = ({
+export const MemberPageTemplate = ({
   title,
   subtitle,
   featuredImage,
   section6,
   gallery5
 }) => (
-  <main className="DefaultPage">
+  <main className="MemberPage">
     <PageHeader
       title={title}
       subtitle={subtitle}
@@ -48,7 +48,7 @@ const MemberPage = ({ data: { page } }) => (
 export default DefaultPage
 
 export const pageQuery = graphql`
-  query DefaultPage($id: String!) {
+  query MemberPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       ...Gallery

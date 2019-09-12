@@ -354,6 +354,7 @@ collections: # A list of collections the CMS should be able to edit
           required: true,
         }
       - { label: Home, name: section1, widget: markdown }
+      - { label: Members, name: section7, widget: markdown }
       - { label: Project Content, name: section2, widget: markdown }
       - label: 'Photo Gallery'
         name: 'gallery1'

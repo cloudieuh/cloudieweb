@@ -17,6 +17,7 @@ export const SingleProjectTemplate = ({
     section1,
     section2,
     section3,
+    section7,
     gallery1,
     gallery2
 }) => (
@@ -29,6 +30,7 @@ export const SingleProjectTemplate = ({
         <Tabs>
             <TabList>
                 <Tab>Home</Tab>
+                <Tab>Member</Tab>
                 <Tab>Project Content</Tab>
                 <Tab>Activity Report</Tab>
             </TabList>
@@ -36,6 +38,13 @@ export const SingleProjectTemplate = ({
                 <section className="section">
                     <div className="container">
                         <Content source={section1} />
+                    </div>
+                </section>
+            </TabPanel>
+            <TabPanel>
+                <section className="section">
+                    <div className="container">
+                        <Content source={section7} />
                     </div>
                 </section>
             </TabPanel>
@@ -101,6 +110,7 @@ export const pageQuery = graphql`
         section1
         section2
         section3
+        section7
       }
     }
     }
