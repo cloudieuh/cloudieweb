@@ -6,7 +6,8 @@
 }
 
 .Contact--Details--Item {
-  display: flex;
+  display: grid;
+  grid-template-columns: 'auto auto auto';
   padding: 2rem 0;
   border-top: 1px solid var(--lightGrey);
   font-weight: 500;
@@ -34,5 +35,9 @@
 
   .Contact--Section1--Container > * {
     width: calc(50% - 2rem);
+  }
+
+  .Contact--Details--Item {
+    grid-template-columns: 'auto'
   }
 }
