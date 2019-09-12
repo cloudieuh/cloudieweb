@@ -30,7 +30,7 @@ export const ContactPageTemplate = ({
         <div>
           <Content source={body} />
           <div className="Contact--Details">
-            <div>
+            <div style={{justifySelf: 'center'}}>
             {address && (
               <a
                 className="Contact--Details--Item"
@@ -44,14 +44,14 @@ export const ContactPageTemplate = ({
               </a>
             )}
             </div>
-            <div>
+            <div style={{justifySelf: 'center'}}>
             {phone && (
               <a className="Contact--Details--Item" href={`tel:${phone}`}>
                 <Smartphone /> {phone}
               </a>
             )}
             </div>
-            <div>
+            <div style={{justifySelf: 'center'}}>
             {email && (
               <a className="Contact--Details--Item" href={`mailto:${email}`}>
                 <Mail /> {email}
