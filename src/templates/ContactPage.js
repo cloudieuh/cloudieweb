@@ -8,10 +8,12 @@ import Content from '../components/Content'
 // import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
 import './ContactPage.css'
+import Gallery from '../components/Gallery'
 
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({
-  body,
+  section4,
+  gallery3,
   title,
   subtitle,
   featuredImage,
@@ -28,7 +30,9 @@ export const ContactPageTemplate = ({
     <section className="section Contact--Section1">
       <div className="container Contact--Section1--Container">
         <div>
-          <Content source={body} />
+          <Content source={section4} />
+          <Gallery images={gallery3} />
+          <h3>Location</h3>
           <div className="Contact--Details">
             <div style={{justifySelf: 'center'}}>
             {address && (

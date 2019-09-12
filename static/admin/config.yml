@@ -43,7 +43,14 @@ collections: # A list of collections the CMS should be able to edit
                 { media_library: { config: { imageShrink: 2600x2600 } } },
             }
           - { label: Subtitle, name: subtitle, widget: markdown }
-          - { label: Body, name: body, widget: markdown }
+          - { label: Lab Info, name: section4, widget: markdown }
+          - label: 'Photo Gallery'
+            name: 'gallery3'
+            widget: 'list'
+            fields:
+              - { name: image, label: Image, widget: image }
+              - { name: alt, label: Alt, widget: string }
+              - { name: title, label: Title, widget: string, required: false }
           - { label: Address, name: address, widget: text }
           - { label: Phone, name: phone, widget: string }
           - { label: Email Address, name: email, widget: string }
