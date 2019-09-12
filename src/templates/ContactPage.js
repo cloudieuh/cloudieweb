@@ -38,7 +38,7 @@ export const ContactPageTemplate = ({
                   address
                 )}`}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer" 
               >
                 <MapPin /> {address}
               </a>
@@ -47,7 +47,7 @@ export const ContactPageTemplate = ({
             <div style={{justifySelf: 'center'}}>
             {phone && (
               <a className="Contact--Details--Item" href={`tel:${phone}`}>
-                <Smartphone /> {phone}
+                <Smartphone/> {phone}
               </a>
             )}
             </div>
