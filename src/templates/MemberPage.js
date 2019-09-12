@@ -45,7 +45,7 @@ const MemberPage = ({ data: { page } }) => (
     <MemberPageTemplate {...page.frontmatter} body={page.html} />
   </Layout>
 )
-export default DefaultPage
+export default MemberPage
 
 export const pageQuery = graphql`
   query MemberPage($id: String!) {
