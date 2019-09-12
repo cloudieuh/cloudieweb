@@ -8,6 +8,7 @@ import Content from '../components/Content'
 import PostSection from '../components/PostSection'
 // import PostCategoriesNav from '../components/PostCategoriesNav'
 import Layout from '../components/Layout'
+import Gallery from '../components/Gallery'
 /**
  * Filter posts by date. Feature dates will be fitered
  * When used, make sure you run a cronejob each day to show schaduled content. See docs
@@ -40,7 +41,9 @@ export const HomePageTemplate = ({
   posts = [],
   postCategories = [],
   enableSearch = true,
-  contentType 
+  contentType,
+  section5,
+  gallery4 
 }) => (
   // <main className="Home">
   //   <PageHeader
@@ -84,6 +87,18 @@ export const HomePageTemplate = ({
           <section className="section">
             <div className="container">
               <Content source={body} />
+            </div>
+          </section>
+
+          <section className="section">
+            <div className="container">
+              <Content source={section5} />
+            </div>
+          </section>
+
+          <section className="section">
+            <div className="container">
+              <Gallery images={gallery4}/>
             </div>
           </section>
 
@@ -140,6 +155,7 @@ export const pageQuery = graphql`
   query HomePage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
+      ...Gallery
       html
       fields {
         contentType
@@ -150,6 +166,7 @@ export const pageQuery = graphql`
         featuredImage,
         template,
         excerpt
+        section5
       }
     }
     posts: allMarkdownRemark(

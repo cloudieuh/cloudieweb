@@ -32,6 +32,11 @@ export const query = graphql`
         image
         # title
       }
+      gallery4 {
+        alt
+        image
+        # title
+      }
     }
   }
 `
