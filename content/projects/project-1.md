@@ -24,7 +24,6 @@ section1: >-
   Sensors are connected to small embedded devices and a Mosquito based MQTT
   broker is established for remote monitoring. Moreover, we also established a
   cloud-based database for storing data from sensors to produce datasets.
-
 section7: >-
   ## Members
 
@@ -81,13 +80,7 @@ gallery1:
     image: 'https://ucarecdn.com/9f988d60-7590-43ff-8724-940c44e9e31e/'
   - alt: Larva 2
     image: 'https://ucarecdn.com/42335d82-fbb1-4126-b18f-983c290d19a8/'
-section3: |-
-  ## Activities
-
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+section3: '##'
 gallery2:
   - alt: JICA visit-1
     image: 'https://ucarecdn.com/78427fd4-3bd7-4231-919f-70335da5542f/'
