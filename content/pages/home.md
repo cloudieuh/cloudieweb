@@ -8,6 +8,7 @@ section5: '## Info photo'
 gallery4:
   - alt: Masters program socialization from the Islamic University of Indonesia
     image: 'https://ucarecdn.com/6776828c-cc30-430b-ba08-c3e9312e39a7/'
+    title: Masters program socialization from the Islamic University of Indonesia
 meta:
   description: This is a meta description.
   title: Home
