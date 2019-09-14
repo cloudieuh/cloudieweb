@@ -13,7 +13,7 @@ subtitle: |-
   Bachelor Student 
 
   ```
-  <h>
+  <hr>
   ```
 section6: '##'
 gallery5:
