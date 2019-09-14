@@ -9,6 +9,9 @@ gallery4:
   - alt: Masters program socialization from the Islamic University of Indonesia
     image: 'https://ucarecdn.com/6776828c-cc30-430b-ba08-c3e9312e39a7/'
     title: Masters program socialization from the Islamic University of Indonesia
+  - alt: Digital Talent Scholarship Academy Program
+    image: 'https://ucarecdn.com/5aa45c88-2a75-459e-81e5-6abb95014abd/'
+    title: Digital Talent Scholarship Academy Program
 meta:
   description: This is a meta description.
   title: Home
