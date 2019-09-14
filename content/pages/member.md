@@ -4,51 +4,46 @@ slug: member
 title: Member
 featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
 subtitle: |-
-  ## Member Info
+  **Lecturer**
 
+  * Dr. Eng. Muhammad Niswar, S.T., M.IT.
+  * Dr. Amil Ahmad Ilham, S.T., M. IT.
+  * Dr. Eng. Zulkifli Tahir, S.T., M.Sc.
 
+  **Bachelor Student** 
 
-
-
-  Bachelor Student 
-
-  1. Hermawan Safrin
-  2. Syarif Hidayatullah
-  3. Ulfah Rojiyyah
-  4. Ahmad Setiadi
-  5. Inka G. Malissa
-  6. Yakip
-  7. Fitriani Idrus
-  8. Winda Astianti
-  9. Irfan Alamsyah
-  10. Handri
-  11. Muhammad Arief Wicaksono
-  12. Umniyah Nur Aprilyah
-  13. Fadel Rezky Ramadhan
-  14. Andi Eka Putri
-  15. Jusmiati
-  16. Charina
-  17. Laura Natalia Nainggolan
-  18. Muhammad Rijal
-  19. Reka Regina
-  20. Wira Satya Pratama
-  21. Dewi Kurnia Safitri
-  22. Diki Wahyudi
-  23. Ainun Mardiah
-  24. Ardya Dwi Rahmasari
-  25. Billa Armani Abdullah
-  26. Nur Arifa Isnaeni Nawir
-  27. Alfina Sulfiana
-  28. Dila Amalia Ervin
-  29. Andi Ardiansyah Yusuf
-  30. Zulkifli
-  31. Khusnul Khatima
-  32. Dian Indani
-
-
-  ```
-  <hr>
-  ```
+  * Hermawan Safrin
+  * Syarif Hidayatullah
+  * Ulfah Rojiyyah
+  * Ahmad Setiadi
+  * Inka G. Malissa
+  * Yakip
+  * Fitriani Idrus
+  * Winda Astianti
+  * Irfan Alamsyah
+  * Handri
+  * Muhammad Arief Wicaksono
+  * Umniyah Nur Aprilyah
+  * Fadel Rezky Ramadhan
+  * Andi Eka Putri
+  * Jusmiati
+  * Charina
+  * Laura Natalia Nainggolan
+  * Muhammad Rijal
+  * Reka Regina
+  * Wira Satya Pratama
+  * Dewi Kurnia Safitri
+  * Diki Wahyudi
+  * Ainun Mardiah
+  * Ardya Dwi Rahmasari
+  * Billa Armani Abdullah
+  * Nur Arifa Isnaeni Nawir
+  * Alfina Sulfiana
+  * Dila Amalia Ervin
+  * Andi Ardiansyah Yusuf
+  * Zulkifli
+  * Khusnul Khatima
+  * Dian Indani
 section6: '##'
 gallery5:
   - alt: Larvae Detection
