@@ -12,7 +12,7 @@ gallery3:
     image: 'https://ucarecdn.com/9f988d60-7590-43ff-8724-940c44e9e31e/'
   - alt: Larva 2
     image: 'https://ucarecdn.com/42335d82-fbb1-4126-b18f-983c290d19a8/'
-address: 'Cloudie Lab, Fakultas Teknik Universitas Hasnauddin'
+address: 'Cloudie Lab, Fakultas Teknik Universitas Hasnauddin, QG83+R6 Makassar'
 phone: 0987 123 456
 email: example@example.com
 meta:
