@@ -4,16 +4,12 @@ slug: member
 title: Member
 featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
 subtitle: |-
-  This is the contact page subtitle.
-
-  \-satu
-
-  \-dua
-
-  \-tiga
-section6: |-
   ## Member Info
-    Member info ditaruh disini
+
+  jjhjhjh
+
+  xzcxzzcxzc
+section6: '##'
 gallery5:
   - alt: Larvae Detection
     image: 'https://ucarecdn.com/9f988d60-7590-43ff-8724-940c44e9e31e/'
