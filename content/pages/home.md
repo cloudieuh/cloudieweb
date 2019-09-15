@@ -9,9 +9,9 @@ gallery4:
   - alt: Masters program socialization from the Islamic University of Indonesia
     image: 'https://ucarecdn.com/6776828c-cc30-430b-ba08-c3e9312e39a7/'
     title: Masters program socialization from the Islamic University of Indonesia
-  - alt: Masters program socialization from the Islamic University of Indonesia
+  - alt: Masters program socialization from the Islamic University of Indonesia 1
     image: 'https://ucarecdn.com/ee297196-eb0b-4691-922d-adaf79ffb699/'
-  - alt: Masters program socialization from the Islamic University of Indonesia
+  - alt: Masters program socialization from the Islamic University of Indonesia 2
     image: 'https://ucarecdn.com/cfb042d4-5ab9-49d9-b2ae-4f0cd8fd2209/'
   - alt: Digital Talent Scholarship Academy Program
     image: 'https://ucarecdn.com/5aa45c88-2a75-459e-81e5-6abb95014abd/'
