@@ -11,8 +11,6 @@ gallery4:
     title: Masters program socialization from the Islamic University of Indonesia
   - alt: Masters program socialization from the Islamic University of Indonesia 1
     image: 'https://ucarecdn.com/ee297196-eb0b-4691-922d-adaf79ffb699/'
-  - alt: Wisuda kak Indah
-    image: 'https://ucarecdn.com/3b38fb6f-503b-41f2-8f28-2d880a703d0a/'
   - alt: Digital Talent Scholarship Academy Program
     image: 'https://ucarecdn.com/5aa45c88-2a75-459e-81e5-6abb95014abd/'
     title: Digital Talent Scholarship Academy Program
