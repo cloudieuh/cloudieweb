@@ -44,6 +44,12 @@ subtitle: |-
   * Zulkifli
   * Khusnul Khatima
   * Dian Indani
+
+  **Master Student** 
+
+  * Novi Nurlaela
+  * Wahyudi Sofyan
+  * Ismail
 section6: '##'
 gallery5: []
 meta:
