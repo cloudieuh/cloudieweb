@@ -93,8 +93,10 @@ gallery2:
     title: 'JICA staffs visit the hatchery '
   - alt: 'Water Quality Monitoring & Controlling '
     image: 'https://ucarecdn.com/0c9cbe47-42c2-4da9-b469-fb8a4939a7eb/'
+    title: 'Water Quality Monitoring & Controlling '
   - alt: Feeding and Molting Detection System for Indoor Crab Farming Setup
     image: 'https://ucarecdn.com/a7432fac-8eec-48ba-95cd-558adb2c7a41/'
+    title: Feeding and Molting Detection System for Indoor Crab Farming Setup
 meta:
   canonicalLink: ''
   description: test meta description
