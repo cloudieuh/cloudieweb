@@ -18,6 +18,9 @@ gallery4:
     image: 'https://ucarecdn.com/2eda482f-53f8-43ad-9f8d-e1cf956e548f/'
   - alt: Digital Talent Scholarship Academy Program
     image: 'https://ucarecdn.com/b68de744-de8b-4b11-842b-d883f6f7061e/'
+  - alt: gambar1
+    image: >-
+      https://ucarecdn.com/4289084f-420c-485b-91e7-2261d471dfc5/-/crop/1280x875/0,0/-/preview/
 meta:
   description: This is a meta description.
   title: Home
