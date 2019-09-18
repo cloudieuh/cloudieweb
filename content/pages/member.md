@@ -3,7 +3,10 @@ template: MemberPage
 slug: member
 title: Member
 featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
-subtitle: |-
+subtitle: '****'
+section6: |-
+  ## 
+
   **Lecturer**
 
   * Dr. Eng. Muhammad Niswar, S.T., M.IT.
@@ -50,7 +53,6 @@ subtitle: |-
   * Novi Nurlaela
   * Wahyudi Sofyan
   * Ismail
-section6: '##'
 gallery5: []
 meta:
   description: This is a meta description.
