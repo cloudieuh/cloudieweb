@@ -4,10 +4,10 @@ import './Footer.css'
 
 export default () => (
   <div>
-    <h4 className="taCenter">
+    {/* <h4 className="taCenter">
       For inquiries regarding this project. 
       Please contact dorome [at_mark] is.naist.jp
-    </h4>
+    </h4> */}
     <br />
     {/* <InstagramFeed count="8" /> */}
     <footer className="footer">

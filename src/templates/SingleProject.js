@@ -18,8 +18,10 @@ export const SingleProjectTemplate = ({
     section2,
     section3,
     section7,
+    // section8,
     gallery1,
-    gallery2
+    gallery2, 
+    gallery6
 }) => (
     <main>
         <PageHeader 
@@ -38,6 +40,11 @@ export const SingleProjectTemplate = ({
                 <section className="section">
                     <div className="container">
                         <Content source={section1} />
+                    </div>
+                </section>
+                <section className="section">
+                    <div className="container">
+                        <Gallery images={gallery6} />
                     </div>
                 </section>
             </TabPanel>
