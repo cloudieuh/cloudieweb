@@ -91,7 +91,16 @@ section2: >-
   Automated Feeding System for Soft Shell Crab," Indonesian Journal of
   Electrical Engineering and Computer Science, Vol. 5, No. 3, March 2017, pp.
   564 ~ 568
-gallery1: []
+gallery1:
+  - alt: Automated Feeding System for Soft Shell Crab Monitoring
+    image: 'https://ucarecdn.com/737e3c2b-c031-4b59-b60e-46ef8a939d6c/'
+    title: Automated Feeding System for Soft Shell Crab Monitoring
+  - alt: Automated Feeding System for Soft Shell Crab
+    image: 'https://ucarecdn.com/4a4dd83a-03ab-400b-9ec4-9039541e394f/'
+    title: Automated Feeding System for Soft Shell Crab
+  - alt: IoT-based Water Quality Monitoring Prototype
+    image: 'https://ucarecdn.com/9f98bb94-ca66-41fe-b0dc-575a4cfa54ea/'
+    title: IoT-based Water Quality Monitoring Prototype
 section3: '##'
 gallery2:
   - alt: JICA visit-1
