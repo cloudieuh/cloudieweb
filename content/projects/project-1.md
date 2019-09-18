@@ -75,7 +75,8 @@ section2: >-
   Automated Feeding System for Soft Shell Crab," Indonesian Journal of
   Electrical Engineering and Computer Science, Vol. 5, No. 3, March 2017, pp.
   564 ~ 568
-gallery1: - alt: JICA visit-1
+gallery1: 
+  - alt: JICA visit-1
     image: 'https://ucarecdn.com/78427fd4-3bd7-4231-919f-70335da5542f/'
     title: JICA staffs visit Hatchery in Takalar
   - alt: 'MoU discussion '
