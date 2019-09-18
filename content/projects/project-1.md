@@ -25,21 +25,19 @@ section1: >-
   broker is established for remote monitoring. Moreover, we also established a
   cloud-based database for storing data from sensors to produce datasets.
 gallery6:
-  - alt: JICA visit-1
-    image: 'https://ucarecdn.com/78427fd4-3bd7-4231-919f-70335da5542f/'
-    title: JICA staffs visit Hatchery in Takalar
-  - alt: 'MoU discussion '
-    image: 'https://ucarecdn.com/5d2637e1-f0ec-41a5-9ca1-514e9ea355e4/'
-    title: 'MoU discussion '
-  - alt: JICA visit
-    image: 'https://ucarecdn.com/abd13762-fc5a-4785-b8d3-145d3ff01a9e/'
-    title: 'JICA staffs visit the hatchery '
-  - alt: 'Water Quality Monitoring & Controlling '
-    image: 'https://ucarecdn.com/0c9cbe47-42c2-4da9-b469-fb8a4939a7eb/'
-    title: 'Water Quality Monitoring & Controlling '
-  - alt: Feeding and Molting Detection System for Indoor Crab Farming Setup
-    image: 'https://ucarecdn.com/a7432fac-8eec-48ba-95cd-558adb2c7a41/'
-    title: Feeding and Molting Detection System for Indoor Crab Farming Setup
+  - alt: >-
+      IoT-based Water Quality Monitoring System for Soft-Shell Crab Farming
+      System Design
+    image: 'https://ucarecdn.com/d4a36b29-bd68-4a8d-a37b-94df1fc1374a/'
+    title: >-
+      IoT-based Water Quality Monitoring System for Soft-Shell Crab Farming
+      System Design
+  - alt: IoT-based Water Quality Monitoring prototype
+    image: 'https://ucarecdn.com/e8f52df1-2126-48c8-b08c-5a27acbb99f6/'
+    title: IoT-based Water Quality Monitoring prototype
+  - alt: Water pH and Temperature Monitor
+    image: 'https://ucarecdn.com/0becc4f2-d037-4fe1-a002-78abb45713ac/'
+    title: Water pH and Temperature Monitor
 section7: >-
   ## Members
 
@@ -98,9 +96,6 @@ gallery1:
   - alt: Automated Feeding System for Soft Shell Crab
     image: 'https://ucarecdn.com/4a4dd83a-03ab-400b-9ec4-9039541e394f/'
     title: Automated Feeding System for Soft Shell Crab
-  - alt: IoT-based Water Quality Monitoring Prototype
-    image: 'https://ucarecdn.com/9f98bb94-ca66-41fe-b0dc-575a4cfa54ea/'
-    title: IoT-based Water Quality Monitoring Prototype
 section3: '##'
 gallery2:
   - alt: JICA visit-1
