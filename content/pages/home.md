@@ -28,6 +28,14 @@ gallery4:
     image: >-
       https://ucarecdn.com/4289084f-420c-485b-91e7-2261d471dfc5/-/crop/1280x875/0,0/-/preview/
     title: Students Final Seminar
+  - alt: 'Lab Members during Ramadan '
+    image: >-
+      https://ucarecdn.com/80080e4f-0706-4866-b1f4-9c65f9e20827/-/crop/1445x720/32,169/-/preview/
+    title: 'Lab Members during Ramadan '
+  - alt: 'Lab Members during Ramadan '
+    image: >-
+      https://ucarecdn.com/fd00c365-22b3-4364-b883-01326b8af01d/-/crop/2364x1156/0,504/-/preview/
+    title: 'Lab Members during Ramadan '
 meta:
   description: This is a meta description.
   title: Home
