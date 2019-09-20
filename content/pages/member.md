@@ -56,7 +56,7 @@ section6: |-
 gallery5:
   - alt: senior Grad
     image: 'https://ucarecdn.com/c7d86297-dbc3-4309-ab95-2b4dbbda0ecb/'
-    title: senior Grad
+    title: senior Graduation
 meta:
   description: This is a meta description.
   title: Contact Page
