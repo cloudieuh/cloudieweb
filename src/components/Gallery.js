@@ -35,7 +35,7 @@ export const query = graphql`
       gallery4 {
         alt
         image
-        # title
+        title
       }
       gallery5 {
         alt
