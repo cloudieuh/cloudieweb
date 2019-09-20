@@ -11,21 +11,23 @@ gallery4:
     title: Masters program socialization from the Islamic University of Indonesia
   - alt: Masters program socialization from the Islamic University of Indonesia 1
     image: 'https://ucarecdn.com/ee297196-eb0b-4691-922d-adaf79ffb699/'
+    title: Masters program socialization from the Islamic University of Indonesia
   - alt: Masters program socialization from the Islamic University of Indonesia 2
     image: 'https://ucarecdn.com/337e2225-4f26-4de3-8474-6e49e40b1c59/'
-    title: Masters program socialization from the Islamic University of Indonesia 2
+    title: Masters program socialization from the Islamic University of Indonesia
   - alt: Digital Talent Scholarship Academy Program
     image: 'https://ucarecdn.com/5aa45c88-2a75-459e-81e5-6abb95014abd/'
     title: Digital Talent Scholarship Academy Program
   - alt: Digital Talent Scholarship Academy Program
     image: 'https://ucarecdn.com/2eda482f-53f8-43ad-9f8d-e1cf956e548f/'
+    title: Digital Talent Scholarship Academy Program
   - alt: Digital Talent Scholarship Academy Program
     image: 'https://ucarecdn.com/b68de744-de8b-4b11-842b-d883f6f7061e/'
+    title: Digital Talent Scholarship Academy Program
   - alt: gambar1
     image: >-
       https://ucarecdn.com/4289084f-420c-485b-91e7-2261d471dfc5/-/crop/1280x875/0,0/-/preview/
-  - alt: Gambar 2
-    image: 'https://ucarecdn.com/9d1d1e0e-5ec3-49bb-8484-9c2a17de5a27/'
+    title: Students Final Seminar
 meta:
   description: This is a meta description.
   title: Home
