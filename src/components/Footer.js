@@ -14,7 +14,7 @@ export default () => (
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. {' '}
-          <a href='/'>Dorome Project</a>.
+          <a href='/'>Ubicon Lab UNHAS</a>.
         </span>
       </div>
     </footer>
